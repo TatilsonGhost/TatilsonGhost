@@ -104,7 +104,7 @@
     <p>&copy; 2024 Portfólio de Sostene Tati</p>
   </footer>
   <script>
-    // Aqui você pode adicionar funcionalidades JavaScript, se necessário
+   -- // Aqui você pode adicionar funcionalidades JavaScript, se necessário--
   </script>
 </body>
 </html>
