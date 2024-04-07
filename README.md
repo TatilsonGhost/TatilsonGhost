@@ -69,7 +69,7 @@
   </nav>
   <section id="sobre">
     <h2>Sobre Mim</h2>
-    <p>Olá! Sou um apaixonado por tecnologia e estou embarcando na jornada da Engenharia Informática. Meu objetivo é aplicar meus conhecimentos e habilidades para resolver problemas complexos e contribuir para o avanço da sociedade por meio da tecnologia.</p>
+    <p>Sostene Tati é um aspirante a engenheiro informático com uma paixão fervorosa pela tecnologia e pela resolução de problemas por meio do código. Com uma sólida base educacional em ciência da computação e uma vontade inabalável de aprender, Sostene está no início de sua jornada na área de engenharia informática. Ele está determinado a adquirir habilidades práticas e experiência para se tornar um engenheiro de software de sucesso no futuro..</p>
   </section>
   <section id="projetos">
     <h2>Projetos</h2>
