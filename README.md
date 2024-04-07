@@ -95,7 +95,7 @@
   <section id="contato">
     <h2>contato</h2>
     <p>E-mail: <a href="mailto:Sostenetati14@gmail.com">Sostenetati14@gmail.com</a></p>
-    <p>LinkedIn: <a href="(https://www.linkedin.com/in/sostene-tati-901543236/)">linkedin.com/sostene-tati-901543236/</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/sostene-tati-901543236/">linkedin.com/sostene-tati-901543236/</a></p>
     <p>Número de telefone: <a href="+244933763176 ">+244933763176</a></p>
   </section>
   <footer>
