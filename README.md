@@ -86,10 +86,12 @@
   <section id="habilidades">
     <h2>Habilidades Técnicas</h2>
     <ul>
-      <li>Linguagens de Programação: Python, JavaScript, C++</li>
-      <li>Desenvolvimento Web: HTML, CSS, Bootstrap</li>
-      <li>Banco de Dados: MySQL, SQLite</li>
-      <!-- Outras habilidades aqui -->
+      <li>Linguagens de Programação: Python, C</li>
+      <li>Desenvolvimento Web: HTML, CSS</li>
+      <li>Banco de Dados: MySQL</li>
+      <li>Telecomunicação </li>
+      <li>Gestao de TI </li>
+      <li>Redes </li>
     </ul>
   </section>
   <section id="contato">
