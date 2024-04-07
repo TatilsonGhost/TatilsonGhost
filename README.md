@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="Sostene Tati" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio de Engenharia Informática</title>
+  <title>Portfólio de Sostene Tati</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -99,7 +99,7 @@
     <p>Número de telefone: <a href="+244933763176 ">+244933763176</a></p>
   </section>
   <footer>
-    <p>&copy; 2024 Portfólio de Engenharia Informática</p>
+    <p>&copy; 2024 Portfólio de Sostene Tati</p>
   </footer>
   <script>
     // Aqui você pode adicionar funcionalidades JavaScript, se necessário
