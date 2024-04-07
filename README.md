@@ -56,7 +56,7 @@
 </head>
 <body>
   <header>
-    <h1>Portfólio de Engenharia Informática</h1>
+    <h1>Portfólio de Sostene Tati</h1>
   </header>
   <nav>
     <ul>
